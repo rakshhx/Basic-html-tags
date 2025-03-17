@@ -1,0 +1,40 @@
+<html>
+<head>
+<title><i><b>ORDERED LIST</b></i>
+</title>
+</head>
+<body bgcolor="orange">
+<style>
+        body {
+            /* Set the background image */
+            background-image: url('C:\Users\admin\Pictures\lapwall.jpeg');
+            
+            /* Make sure the image covers the entire page */
+            background-size: cover;
+            
+            /* Ensure the background is positioned correctly */
+            background-position: center;
+            
+            /* Prevent the background from repeating */
+            background-repeat: no-repeat;
+            
+            /* Optional: Set a fixed background (it stays in place when scrolling) */
+            background-attachment: fixed;
+            
+            /* Optional: Set a background color as fallback (in case the image doesn't load) */
+            background-color: #f0f0f0;
+            
+            /* Make sure the page takes up at least the full height of the viewport */
+            height: 100vh;
+            margin: 0;
+        }
+    </style>
+<h1><marquee direction="right">Fresh Fruitsss</marquee></h1>
+<h1><b><i>list of fruits</i></b></h1>
+<ol type="A">
+<li><p style="colour:pink">apples</p></li>
+<li><p style="colour:pink">banana</li>
+<li><p style="colour:pink">grapes</li>
+<li><p style="colour:pink">orange</li>
+</ol>
+</body>
